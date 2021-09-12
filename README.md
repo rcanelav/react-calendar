@@ -1,3 +1,3 @@
 MERN CALENDAR AT 
 
-https://calendar-crud.herokuapp.com/login
+https://calendar-crud.herokuapp.com
